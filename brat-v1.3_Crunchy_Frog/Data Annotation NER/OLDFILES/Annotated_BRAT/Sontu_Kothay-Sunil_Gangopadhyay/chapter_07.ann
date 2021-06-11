@@ -1,0 +1,478 @@
+T1	Pronoun 2654 2657	আমি
+T2	Pronoun 2707 2710	আমি
+T3	Pronoun 3356 3359	আমি
+T4	Pronoun 3961 3964	আমি
+T5	Pronoun 4343 4346	আমি
+T6	Pronoun 5104 5107	আমি
+T7	Pronoun 5161 5164	আমি
+T8	Pronoun 5317 5320	আমি
+T9	Pronoun 5335 5338	আমি
+T10	Pronoun 6494 6497	আমি
+T11	Pronoun 8661 8664	আমি
+T12	Pronoun 9417 9420	আমি
+T13	Pronoun 9514 9517	আমি
+T14	Pronoun 9771 9774	আমি
+T15	Pronoun 9785 9788	আমি
+T16	Pronoun 10621 10624	আমি
+T17	Pronoun 11324 11327	আমি
+T18	Pronoun 11574 11577	আমি
+T19	Pronoun 14799 14802	আমি
+T20	Pronoun 14890 14893	আমি
+T21	Pronoun 15063 15066	আমি
+T22	Pronoun 15187 15190	আমি
+T23	Pronoun 15657 15660	আমি
+T24	Pronoun 16000 16003	আমি
+T25	Pronoun 3980 3984	আমার
+T26	Pronoun 4021 4025	আমার
+T27	Pronoun 4130 4134	আমার
+T28	Pronoun 4234 4238	আমার
+T29	Pronoun 4316 4320	আমার
+T30	Pronoun 4375 4379	আমার
+T31	Pronoun 4475 4479	আমার
+T32	Pronoun 4576 4580	আমার
+T33	Pronoun 4961 4965	আমার
+T34	Pronoun 5124 5128	আমার
+T35	Pronoun 5446 5450	আমার
+T36	Pronoun 5584 5588	আমার
+T37	Pronoun 6469 6473	আমার
+T38	Pronoun 6930 6934	আমার
+T39	Pronoun 10348 10352	আমার
+T40	Pronoun 15771 15775	আমার
+T41	Pronoun 16212 16216	আমার
+T42	Pronoun 10165 10170	আমাকে
+T43	Pronoun 14675 14680	আমাকে
+T44	Pronoun 4544 4547	নিজ
+T45	Pronoun 8746 8749	নিজ
+T47	Pronoun 3928 3932	তুমি
+T48	Pronoun 3942 3946	তুমি
+T49	Pronoun 4067 4071	তুমি
+T50	Pronoun 4370 4374	তুমি
+T51	Pronoun 4607 4611	তুমি
+T52	Pronoun 4919 4923	তুমি
+T53	Pronoun 5268 5272	তুমি
+T54	Pronoun 5274 5278	তুমি
+T55	Pronoun 6377 6381	তুমি
+T56	Pronoun 6629 6633	তুমি
+T57	Pronoun 6809 6813	তুমি
+T58	Pronoun 7341 7345	তুমি
+T59	Pronoun 7387 7391	তুমি
+T60	Pronoun 5387 5392	তোমার
+T61	Pronoun 6164 6169	তোমার
+T62	Pronoun 6283 6288	তোমার
+T63	Pronoun 6321 6326	তোমার
+T64	Pronoun 6752 6757	তোমার
+T65	Pronoun 6781 6786	তোমার
+T66	Pronoun 7136 7141	তোমার
+T67	Pronoun 6648 6654	তোমাকে
+T68	Pronoun 7363 7369	তোমাকে
+T69	Pronoun 4110 4114	আপনি
+T70	Pronoun 4253 4257	আপনি
+T71	Pronoun 8569 8573	আপনি
+T72	Pronoun 11508 11512	আপনি
+T73	Pronoun 15537 15541	আপনি
+T74	Pronoun 15724 15728	আপনি
+T75	Pronoun 4222 4227	আপনার
+T76	Pronoun 5342 5347	আপনার
+T77	Pronoun 10036 10041	আপনার
+T78	Pronoun 483 487	তাকে
+T79	Pronoun 5481 5485	তাকে
+T80	Pronoun 6078 6082	তাকে
+T81	Pronoun 6383 6387	তাকে
+T82	Pronoun 6489 6493	তাকে
+T83	Pronoun 7438 7442	তাকে
+T84	Pronoun 7457 7461	তাকে
+T85	Pronoun 7866 7870	তাকে
+T86	Pronoun 8040 8044	তাকে
+T87	Pronoun 49 52	তার
+T88	Pronoun 76 79	তার
+T93	Pronoun 2570 2573	তার
+T95	Pronoun 3520 3523	তার
+T96	Pronoun 5400 5403	তার
+T99	Pronoun 6274 6277	তার
+T103	Pronoun 8401 8404	তার
+T104	Pronoun 8926 8929	তার
+T108	Pronoun 12059 12062	তার
+T115	Pronoun 16004 16007	তার
+T116	Pronoun 12769 12773	তাঁর
+T117	Pronoun 13304 13308	তাঁর
+T118	Pronoun 8623 8626	তুই
+T119	Pronoun 15677 15680	তুই
+T120	Pronoun 15815 15818	তুই
+T122	Pronoun 15790 15793	তোর
+T123	Pronoun 16186 16189	তোর
+T124	Pronoun 8964 8968	তোকে
+T125	Pronoun 9384 9388	তোকে
+T126	Pronoun 2101 2105	তিনি
+T127	Pronoun 2115 2119	তিনি
+T128	Pronoun 2286 2290	তিনি
+T129	Pronoun 9963 9967	তিনি
+T130	Pronoun 11604 11608	তিনি
+T131	Pronoun 11979 11983	তিনি
+T132	Pronoun 12101 12105	তিনি
+T133	Pronoun 12282 12286	তিনি
+T134	Pronoun 12683 12687	তিনি
+T135	Pronoun 12944 12948	তিনি
+T136	Pronoun 12985 12989	তিনি
+T137	Pronoun 13609 13613	তিনি
+T138	Pronoun 13875 13879	তিনি
+T139	Pronoun 13938 13942	তিনি
+T140	Pronoun 13982 13986	তিনি
+T141	Pronoun 14180 14184	তিনি
+T142	Pronoun 14512 14516	তিনি
+T145	Pronoun 2676 2679	উনি
+T146	Pronoun 3838 3841	উনি
+T147	Pronoun 3976 3979	উনি
+T148	Noun 97 105	কাকাবাবু
+T149	Noun 208 216	কাকাবাবু
+T150	Noun 1605 1613	কাকাবাবু
+T151	Noun 2520 2528	কাকাবাবু
+T152	Noun 2834 2842	কাকাবাবু
+T153	Noun 3387 3395	কাকাবাবু
+T154	Noun 3433 3441	কাকাবাবু
+T155	Noun 3458 3466	কাকাবাবু
+T156	Noun 7142 7150	কাকাবাবু
+T157	Noun 7752 7760	কাকাবাবু
+T158	Noun 8559 8567	কাকাবাবু
+T159	Noun 8587 8595	কাকাবাবু
+T160	Noun 8831 8839	কাকাবাবু
+T161	Noun 8917 8925	কাকাবাবু
+T162	Noun 9243 9251	কাকাবাবু
+T163	Noun 9307 9315	কাকাবাবু
+T164	Noun 9683 9691	কাকাবাবু
+T165	Noun 9845 9853	কাকাবাবু
+T166	Noun 10060 10068	কাকাবাবু
+T167	Noun 10288 10296	কাকাবাবু
+T168	Noun 10497 10505	কাকাবাবু
+T169	Noun 10812 10820	কাকাবাবু
+T170	Noun 10958 10966	কাকাবাবু
+T171	Noun 11130 11138	কাকাবাবু
+T172	Noun 11200 11208	কাকাবাবু
+T173	Noun 11346 11354	কাকাবাবু
+T174	Noun 11489 11497	কাকাবাবু
+T175	Noun 11526 11534	কাকাবাবু
+T176	Noun 11678 11686	কাকাবাবু
+T177	Noun 11916 11924	কাকাবাবু
+T178	Noun 12524 12532	কাকাবাবু
+T179	Noun 12652 12660	কাকাবাবু
+T180	Noun 13058 13066	কাকাবাবু
+T181	Noun 13206 13214	কাকাবাবু
+T182	Noun 13264 13272	কাকাবাবু
+T183	Noun 13559 13567	কাকাবাবু
+T184	Noun 14448 14456	কাকাবাবু
+T185	Noun 14637 14645	কাকাবাবু
+T186	Noun 15159 15167	কাকাবাবু
+T187	Noun 15409 15417	কাকাবাবু
+T188	Noun 15555 15563	কাকাবাবু
+T189	Noun 15747 15755	কাকাবাবু
+T190	Noun 16096 16104	কাকাবাবু
+T191	Noun 2040 2054	রাজা রায়চৌধুরী
+T192	Noun 2250 2264	রাজা রায়চৌধুরী
+T193	Noun 3795 3809	রাজা রায়চৌধুরী
+T194	Noun 4433 4447	রাজা রায়চৌধুরী
+T195	Noun 4891 4905	রাজা রায়চৌধুরী
+T196	Noun 23 28	সন্তু
+T197	Noun 182 187	সন্তু
+T198	Noun 430 435	সন্তু
+T199	Noun 501 506	সন্তু
+T200	Noun 576 581	সন্তু
+T201	Noun 668 673	সন্তু
+T202	Noun 714 719	সন্তু
+T203	Noun 1510 1515	সন্তু
+T204	Noun 2789 2794	সন্তু
+T205	Noun 2822 2827	সন্তু
+T206	Noun 3315 3320	সন্তু
+T207	Noun 3471 3476	সন্তু
+T208	Noun 4972 4977	সন্তু
+T209	Noun 6463 6468	সন্তু
+T210	Noun 7683 7688	সন্তু
+T211	Noun 8034 8039	সন্তু
+T212	Noun 8673 8678	সন্তু
+T213	Noun 8720 8725	সন্তু
+T214	Noun 9101 9106	সন্তু
+T215	Noun 9163 9168	সন্তু
+T216	Noun 9361 9366	সন্তু
+T217	Noun 9392 9397	সন্তু
+T218	Noun 9824 9829	সন্তু
+T219	Noun 9861 9866	সন্তু
+T220	Noun 10000 10005	সন্তু
+T221	Noun 10091 10096	সন্তু
+T222	Noun 10212 10217	সন্তু
+T223	Noun 11278 11283	সন্তু
+T224	Noun 0 4	জোজো
+T225	Noun 160 164	জোজো
+T226	Noun 676 680	জোজো
+T227	Noun 796 800	জোজো
+T228	Noun 881 885	জোজো
+T229	Noun 1008 1012	জোজো
+T230	Noun 1086 1090	জোজো
+T231	Noun 1245 1249	জোজো
+T232	Noun 1294 1298	জোজো
+T233	Noun 1358 1362	জোজো
+T234	Noun 1490 1494	জোজো
+T235	Noun 1525 1529	জোজো
+T236	Noun 1662 1666	জোজো
+T237	Noun 1835 1839	জোজো
+T238	Noun 2013 2017	জোজো
+T239	Noun 2564 2568	জোজো
+T240	Noun 2758 2762	জোজো
+T241	Noun 2981 2985	জোজো
+T242	Noun 3112 3116	জোজো
+T243	Noun 3257 3261	জোজো
+T244	Noun 3734 3738	জোজো
+T245	Noun 3817 3821	জোজো
+T246	Noun 3951 3955	জোজো
+T247	Noun 4087 4091	জোজো
+T248	Noun 4176 4180	জোজো
+T249	Noun 4623 4627	জোজো
+T250	Noun 4777 4781	জোজো
+T251	Noun 4938 4942	জোজো
+T252	Noun 5199 5203	জোজো
+T253	Noun 5297 5301	জোজো
+T254	Noun 5433 5437	জোজো
+T255	Noun 5647 5651	জোজো
+T256	Noun 6015 6019	জোজো
+T257	Noun 6200 6204	জোজো
+T258	Noun 6429 6433	জোজো
+T259	Noun 6677 6681	জোজো
+T260	Noun 6909 6913	জোজো
+T261	Noun 7403 7407	জোজো
+T262	Noun 7658 7662	জোজো
+T263	Noun 7887 7891	জোজো
+T264	Noun 8085 8089	জোজো
+T265	Noun 8228 8232	জোজো
+T266	Noun 8327 8331	জোজো
+T267	Noun 8515 8519	জোজো
+T268	Noun 8617 8621	জোজো
+T269	Noun 8733 8737	জোজো
+T270	Noun 8863 8867	জোজো
+T271	Noun 8889 8893	জোজো
+T272	Noun 8992 8996	জোজো
+T273	Noun 9075 9079	জোজো
+T274	Noun 9281 9285	জোজো
+T275	Noun 9617 9621	জোজো
+T276	Noun 9748 9752	জোজো
+T277	Noun 9897 9901	জোজো
+T278	Noun 10260 10264	জোজো
+T279	Noun 10536 10540	জোজো
+T280	Noun 10887 10891	জোজো
+T281	Noun 10939 10943	জোজো
+T282	Noun 11122 11126	জোজো
+T283	Noun 11268 11272	জোজো
+T284	Noun 11471 11475	জোজো
+T285	Noun 11609 11613	জোজো
+T286	Noun 14659 14663	জোজো
+T287	Noun 15085 15089	জোজো
+T288	Noun 15517 15521	জোজো
+T289	Noun 15700 15704	জোজো
+T290	Noun 15841 15845	জোজো
+T291	Noun 16146 16150	জোজো
+T292	Noun 15220 15226	ভার্গব
+T293	Noun 4139 4148	বিসমিল্লা
+T294	Noun 4275 4284	বিসমিল্লা
+T295	Noun 4561 4570	বিসমিল্লা
+T296	Noun 4640 4649	বিসমিল্লা
+T297	Noun 4741 4750	বিসমিল্লা
+T298	Noun 4840 4849	বিসমিল্লা
+T299	Noun 4992 5001	বিসমিল্লা
+T300	Noun 5228 5237	বিসমিল্লা
+T301	Noun 5364 5373	বিসমিল্লা
+T302	Noun 5512 5521	বিসমিল্লা
+T303	Noun 5727 5736	বিসমিল্লা
+T304	Noun 6096 6105	বিসমিল্লা
+T305	Noun 6226 6235	বিসমিল্লা
+T306	Noun 6512 6521	বিসমিল্লা
+T307	Noun 6710 6719	বিসমিল্লা
+T308	Noun 6979 6988	বিসমিল্লা
+T309	Noun 7283 7292	বিসমিল্লা
+R1	PronounToNoun Arg1:T87 Arg2:T224	
+R2	PronounToNoun Arg1:T88 Arg2:T196	
+R3	PronounToNoun Arg1:T78 Arg2:T225	
+R4	PronounToNoun Arg1:T126 Arg2:T191	
+R5	PronounToNoun Arg1:T127 Arg2:T191	
+R6	PronounToNoun Arg1:T128 Arg2:T192	
+R7	PronounToNoun Arg1:T93 Arg2:T239	
+R8	PronounToNoun Arg1:T1 Arg2:T239	
+R9	PronounToNoun Arg1:T145 Arg2:T151	
+R10	PronounToNoun Arg1:T2 Arg2:T239	
+R11	PronounToNoun Arg1:T3 Arg2:T243	
+R12	PronounToNoun Arg1:T95 Arg2:T243	
+R13	PronounToNoun Arg1:T146 Arg2:T193	
+R14	PronounToNoun Arg1:T47 Arg2:T245	
+T89	Noun 3851 3856	লোকটি
+R15	PronounToNoun Arg1:T48 Arg2:T245	
+R16	PronounToNoun Arg1:T4 Arg2:T246	
+R17	PronounToNoun Arg1:T147 Arg2:T193	
+R18	PronounToNoun Arg1:T25 Arg2:T246	
+T90	Pronoun 4011 4013	ওঁ
+R19	PronounToNoun Arg1:T90 Arg2:T193	
+T91	Noun 3991 3996	লোকটি
+R20	PronounToNoun Arg1:T26 Arg2:T91	
+R21	PronounToNoun Arg1:T49 Arg2:T246	
+R22	PronounToNoun Arg1:T69 Arg2:T91	
+T92	Noun 4119 4124	লোকটি
+R23	PronounToNoun Arg1:T27 Arg2:T92	
+R24	PronounToNoun Arg1:T75 Arg2:T293	
+R25	PronounToNoun Arg1:T28 Arg2:T248	
+R26	PronounToNoun Arg1:T70 Arg2:T293	
+R27	PronounToNoun Arg1:T29 Arg2:T294	
+R28	PronounToNoun Arg1:T5 Arg2:T294	
+R29	PronounToNoun Arg1:T50 Arg2:T248	
+R30	PronounToNoun Arg1:T30 Arg2:T294	
+R31	PronounToNoun Arg1:T31 Arg2:T294	
+R32	PronounToNoun Arg1:T44 Arg2:T295	
+R33	PronounToNoun Arg1:T32 Arg2:T295	
+R34	PronounToNoun Arg1:T51 Arg2:T248	
+R35	PronounToNoun Arg1:T52 Arg2:T250	
+R36	PronounToNoun Arg1:T33 Arg2:T251	
+R37	PronounToNoun Arg1:T6 Arg2:T299	
+R38	PronounToNoun Arg1:T34 Arg2:T299	
+R39	PronounToNoun Arg1:T7 Arg2:T299	
+R40	PronounToNoun Arg1:T53 Arg2:T252	
+R41	PronounToNoun Arg1:T8 Arg2:T253	
+R42	PronounToNoun Arg1:T54 Arg2:T252	
+R43	PronounToNoun Arg1:T9 Arg2:T253	
+R44	PronounToNoun Arg1:T76 Arg2:T300	
+R45	PronounToNoun Arg1:T60 Arg2:T253	
+T94	Noun 5393 5398	বন্ধু
+R46	PronounToNoun Arg1:T96 Arg2:T94	
+R47	PronounToNoun Arg1:T35 Arg2:T254	
+T143	Pronoun 5443 5445	সে
+R48	PronounToNoun Arg1:T143 Arg2:T94	
+R49	PronounToNoun Arg1:T79 Arg2:T94	
+R50	PronounToNoun Arg1:T36 Arg2:T302	
+R51	PronounToNoun Arg1:T80 Arg2:T94	
+R52	PronounToNoun Arg1:T61 Arg2:T256	
+T97	Noun 6175 6184	সেই বন্ধু
+T98	Pronoun 6254 6256	সে
+R53	PronounToNoun Arg1:T98 Arg2:T97	
+R54	PronounToNoun Arg1:T99 Arg2:T97	
+R55	PronounToNoun Arg1:T62 Arg2:T257	
+R56	PronounToNoun Arg1:T63 Arg2:T257	
+R57	PronounToNoun Arg1:T55 Arg2:T257	
+T310	Noun 6333 6343	একজন বন্ধু
+R58	PronounToNoun Arg1:T81 Arg2:T310	
+R59	PronounToNoun Arg1:T37 Arg2:T258	
+R60	PronounToNoun Arg1:T82 Arg2:T209	
+R61	PronounToNoun Arg1:T10 Arg2:T258	
+R62	PronounToNoun Arg1:T56 Arg2:T258	
+R63	PronounToNoun Arg1:T67 Arg2:T258	
+R64	PronounToNoun Arg1:T64 Arg2:T259	
+R65	PronounToNoun Arg1:T65 Arg2:T259	
+R66	PronounToNoun Arg1:T57 Arg2:T259	
+R67	PronounToNoun Arg1:T38 Arg2:T260	
+R68	PronounToNoun Arg1:T66 Arg2:T260	
+R69	PronounToNoun Arg1:T58 Arg2:T260	
+R70	PronounToNoun Arg1:T68 Arg2:T260	
+R71	PronounToNoun Arg1:T59 Arg2:T260	
+R72	PronounToNoun Arg1:T83 Arg2:T261	
+R73	PronounToNoun Arg1:T84 Arg2:T261	
+R74	PronounToNoun Arg1:T85 Arg2:T262	
+R75	PronounToNoun Arg1:T86 Arg2:T263	
+R76	PronounToNoun Arg1:T103 Arg2:T266	
+R77	PronounToNoun Arg1:T71 Arg2:T158	
+R78	PronounToNoun Arg1:T118 Arg2:T268	
+R79	PronounToNoun Arg1:T11 Arg2:T159	
+R80	PronounToNoun Arg1:T45 Arg2:T269	
+R81	PronounToNoun Arg1:T104 Arg2:T271	
+R82	PronounToNoun Arg1:T124 Arg2:T271	
+R83	PronounToNoun Arg1:T125 Arg2:T274	
+R84	PronounToNoun Arg1:T12 Arg2:T162	
+R85	PronounToNoun Arg1:T13 Arg2:T162	
+R86	PronounToNoun Arg1:T14 Arg2:T276	
+R87	PronounToNoun Arg1:T15 Arg2:T276	
+T100	Noun 9945 9954	গোলাম আলি
+R88	PronounToNoun Arg1:T129 Arg2:T100	
+R89	PronounToNoun Arg1:T77 Arg2:T165	
+R90	PronounToNoun Arg1:T42 Arg2:T166	
+R91	PronounToNoun Arg1:T39 Arg2:T167	
+R92	PronounToNoun Arg1:T16 Arg2:T168	
+R93	PronounToNoun Arg1:T17 Arg2:T283	
+R94	PronounToNoun Arg1:T72 Arg2:T174	
+R95	PronounToNoun Arg1:T18 Arg2:T175	
+R96	PronounToNoun Arg1:T130 Arg2:T175	
+R97	PronounToNoun Arg1:T131 Arg2:T177	
+T101	Noun 12031 12040	মঞ্চাম্মা
+R98	PronounToNoun Arg1:T108 Arg2:T101	
+R99	PronounToNoun Arg1:T132 Arg2:T177	
+R100	PronounToNoun Arg1:T133 Arg2:T177	
+R101	PronounToNoun Arg1:T134 Arg2:T179	
+R102	PronounToNoun Arg1:T116 Arg2:T179	
+R103	PronounToNoun Arg1:T135 Arg2:T179	
+R104	PronounToNoun Arg1:T136 Arg2:T179	
+R105	PronounToNoun Arg1:T117 Arg2:T182	
+R106	PronounToNoun Arg1:T137 Arg2:T183	
+R107	PronounToNoun Arg1:T138 Arg2:T183	
+R108	PronounToNoun Arg1:T139 Arg2:T183	
+R109	PronounToNoun Arg1:T140 Arg2:T183	
+R110	PronounToNoun Arg1:T141 Arg2:T183	
+R111	PronounToNoun Arg1:T142 Arg2:T184	
+R112	PronounToNoun Arg1:T43 Arg2:T185	
+R113	PronounToNoun Arg1:T19 Arg2:T185	
+R114	PronounToNoun Arg1:T21 Arg2:T185	
+R115	PronounToNoun Arg1:T20 Arg2:T185	
+R116	PronounToNoun Arg1:T22 Arg2:T186	
+R117	PronounToNoun Arg1:T73 Arg2:T187	
+R118	PronounToNoun Arg1:T23 Arg2:T188	
+R119	PronounToNoun Arg1:T119 Arg2:T288	
+R120	PronounToNoun Arg1:T74 Arg2:T188	
+R121	PronounToNoun Arg1:T40 Arg2:T189	
+R122	PronounToNoun Arg1:T122 Arg2:T289	
+R123	PronounToNoun Arg1:T120 Arg2:T289	
+R124	PronounToNoun Arg1:T24 Arg2:T290	
+T46	Noun 15949 15960	আমর্ড গার্ড
+R125	PronounToNoun Arg1:T115 Arg2:T46	
+R126	PronounToNoun Arg1:T123 Arg2:T291	
+R127	PronounToNoun Arg1:T41 Arg2:T190	
+T102	Pronoun 60 62	সে
+R128	PronounToNoun Arg1:T102 Arg2:T196	
+T105	Pronoun 108 110	সে
+R129	PronounToNoun Arg1:T105 Arg2:T224	
+T106	Pronoun 536 538	সে
+R130	PronounToNoun Arg1:T106 Arg2:T199	
+T107	Pronoun 1005 1007	সে
+T109	Noun 970 991	যোলো-সতেরো বছরের ছেলে
+R131	PronounToNoun Arg1:T107 Arg2:T109	
+T110	Noun 1234 1244	সেই ছেলেটি
+T111	Pronoun 1370 1372	সে
+R132	PronounToNoun Arg1:T111 Arg2:T110	
+T112	Pronoun 1561 1563	সে
+R133	PronounToNoun Arg1:T112 Arg2:T235	
+T113	Noun 2148 2162	গাড়ির ড্রাইভার
+T114	Pronoun 2199 2201	সে
+R134	PronounToNoun Arg1:T114 Arg2:T113	
+T121	Pronoun 2630 2632	সে
+R135	PronounToNoun Arg1:T121 Arg2:T239	
+T144	Pronoun 2802 2804	সে
+R136	PronounToNoun Arg1:T144 Arg2:T240	
+T311	Pronoun 2853 2855	সে
+R137	PronounToNoun Arg1:T311 Arg2:T240	
+T312	Pronoun 3300 3302	সে
+R138	PronounToNoun Arg1:T312 Arg2:T243	
+T313	Pronoun 3369 3371	সে
+R139	PronounToNoun Arg1:T313 Arg2:T243	
+T314	Pronoun 3503 3505	সে
+R140	PronounToNoun Arg1:T314 Arg2:T243	
+T315	Pronoun 3572 3574	সে
+R141	PronounToNoun Arg1:T315 Arg2:T243	
+T316	Pronoun 3642 3644	সে
+R142	PronounToNoun Arg1:T316 Arg2:T243	
+T317	Pronoun 5414 5416	সে
+R143	PronounToNoun Arg1:T317 Arg2:T94	
+T318	Pronoun 7324 7326	সে
+R144	PronounToNoun Arg1:T318 Arg2:T309	
+T319	Pronoun 7478 7480	সে
+R145	PronounToNoun Arg1:T319 Arg2:T261	
+T320	Pronoun 7517 7519	সে
+R146	PronounToNoun Arg1:T320 Arg2:T261	
+T321	Pronoun 7699 7701	সে
+R147	PronounToNoun Arg1:T321 Arg2:T262	
+T322	Pronoun 7951 7953	সে
+T323	Pronoun 7969 7971	সে
+R148	PronounToNoun Arg1:T322 Arg2:T263	
+R149	PronounToNoun Arg1:T323 Arg2:T263	
+T324	Pronoun 8365 8367	সে
+T325	Pronoun 8534 8536	সে
+R150	PronounToNoun Arg1:T324 Arg2:T266	
+R151	PronounToNoun Arg1:T325 Arg2:T266	
+T326	Pronoun 15966 15968	সে
+R152	PronounToNoun Arg1:T326 Arg2:T46	

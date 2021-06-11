@@ -1,0 +1,272 @@
+T1	Pronoun 2238 2241	আমি
+T2	Pronoun 2260 2263	আমি
+T3	Pronoun 2597 2600	আমি
+T4	Pronoun 3271 3274	আমি
+T5	Pronoun 4515 4518	আমি
+T6	Pronoun 5408 5411	আমি
+T7	Pronoun 8196 8199	আমি
+T8	Pronoun 8824 8827	আমি
+T9	Pronoun 8974 8977	আমি
+T10	Pronoun 9178 9181	আমি
+T11	Pronoun 9777 9780	আমি
+T12	Pronoun 10132 10135	আমি
+T13	Pronoun 10743 10746	আমি
+T14	Pronoun 1195 1199	আমার
+T15	Pronoun 1735 1739	আমার
+T16	Pronoun 2185 2189	আমার
+T17	Pronoun 2918 2922	আমার
+T18	Pronoun 3874 3878	আমার
+T19	Pronoun 3901 3905	আমার
+T20	Pronoun 3954 3958	আমার
+T21	Pronoun 3975 3979	আমার
+T22	Pronoun 4073 4077	আমার
+T23	Pronoun 5434 5438	আমার
+T24	Pronoun 7738 7742	আমার
+T25	Pronoun 8006 8010	আমার
+T26	Pronoun 8106 8110	আমার
+T27	Pronoun 10440 10445	আমাকে
+T28	Pronoun 792 795	নিজ
+T30	Pronoun 10902 10905	নিজ
+T32	Pronoun 5491 5495	তুমি
+T33	Pronoun 8501 8507	তোমাকে
+T34	Pronoun 7970 7974	আপনি
+T35	Pronoun 9978 9982	আপনি
+T36	Pronoun 10619 10623	আপনি
+T37	Pronoun 2152 2157	আপনার
+T38	Pronoun 3809 3814	আপনার
+T39	Pronoun 4031 4036	আপনার
+T40	Pronoun 4196 4201	আপনার
+T42	Pronoun 4626 4631	আপনার
+T43	Pronoun 6812 6817	আপনার
+T45	Pronoun 9907 9912	আপনার
+T47	Pronoun 6576 6580	তাকে
+T56	Pronoun 6189 6192	তার
+T67	Pronoun 10577 10580	তার
+T71	Pronoun 404 408	তাঁর
+T72	Pronoun 1220 1224	তাঁর
+T73	Pronoun 1327 1331	তাঁর
+T74	Pronoun 7147 7151	তাঁর
+T75	Pronoun 7668 7672	তাঁর
+T76	Pronoun 11099 11103	তাঁর
+T77	Pronoun 5524 5527	তুই
+T78	Pronoun 1397 1401	তিনি
+T79	Pronoun 1553 1557	তিনি
+T80	Pronoun 9529 9533	তিনি
+T81	Pronoun 9617 9621	তিনি
+T82	Pronoun 9647 9651	তিনি
+T83	Pronoun 10092 10096	তিনি
+T84	Pronoun 10151 10155	তিনি
+T85	Pronoun 10223 10227	তিনি
+T86	Pronoun 11074 11078	তিনি
+T87	Pronoun 1451 1454	উনি
+T89	Pronoun 9809 9812	উনি
+T92	Pronoun 789 792	সে 
+T93	Pronoun 846 849	সে 
+T94	Pronoun 1766 1769	সে 
+T104	Pronoun 7634 7637	সে 
+T106	Pronoun 7928 7931	সে 
+T109	Pronoun 8742 8745	সে 
+T112	Pronoun 10005 10008	সে 
+T115	Noun 10 18	কাকাবাবু
+T116	Noun 549 557	কাকাবাবু
+T117	Noun 702 710	কাকাবাবু
+T118	Noun 1428 1436	কাকাবাবু
+T119	Noun 2705 2713	কাকাবাবু
+T120	Noun 3724 3732	কাকাবাবু
+T121	Noun 3996 4004	কাকাবাবু
+T122	Noun 4406 4414	কাকাবাবু
+T123	Noun 4675 4683	কাকাবাবু
+T124	Noun 4741 4749	কাকাবাবু
+T125	Noun 4913 4921	কাকাবাবু
+T126	Noun 5231 5239	কাকাবাবু
+T127	Noun 5458 5466	কাকাবাবু
+T128	Noun 5623 5631	কাকাবাবু
+T129	Noun 6063 6071	কাকাবাবু
+T130	Noun 7071 7079	কাকাবাবু
+T131	Noun 7644 7652	কাকাবাবু
+T132	Noun 7689 7697	কাকাবাবু
+T133	Noun 7863 7871	কাকাবাবু
+T134	Noun 7931 7939	কাকাবাবু
+T135	Noun 8155 8163	কাকাবাবু
+T136	Noun 8296 8304	কাকাবাবু
+T137	Noun 8535 8543	কাকাবাবু
+T138	Noun 8940 8948	কাকাবাবু
+T139	Noun 9159 9167	কাকাবাবু
+T140	Noun 10603 10611	কাকাবাবু
+T141	Noun 19 24	সন্তু
+T142	Noun 279 284	সন্তু
+T143	Noun 485 490	সন্তু
+T144	Noun 571 576	সন্তু
+T145	Noun 1440 1445	সন্তু
+T146	Noun 1659 1664	সন্তু
+T147	Noun 1699 1704	সন্তু
+T148	Noun 5176 5181	সন্তু
+T149	Noun 5517 5522	সন্তু
+T150	Noun 5540 5545	সন্তু
+T151	Noun 6384 6389	সন্তু
+T152	Noun 6431 6436	সন্তু
+T153	Noun 6444 6449	সন্তু
+T154	Noun 6582 6587	সন্তু
+T155	Noun 6656 6661	সন্তু
+T156	Noun 6856 6861	সন্তু
+T157	Noun 7018 7023	সন্তু
+T158	Noun 7372 7377	সন্তু
+T159	Noun 7391 7396	সন্তু
+T160	Noun 7499 7504	সন্তু
+T161	Noun 8366 8371	সন্তু
+T162	Noun 8494 8499	সন্তু
+T163	Noun 8704 8709	সন্তু
+T164	Noun 8868 8873	সন্তু
+T165	Noun 9656 9661	সন্তু
+T166	Noun 10097 10102	সন্তু
+T167	Noun 10156 10161	সন্তু
+T168	Noun 10828 10833	সন্তু
+T169	Noun 10862 10867	সন্তু
+T170	Noun 10942 10947	সন্তু
+T171	Noun 740 748	অনির্বাণ
+T172	Noun 1145 1153	অনির্বাণ
+T173	Noun 1790 1798	অনির্বাণ
+T174	Noun 2769 2777	অনির্বাণ
+T175	Noun 3029 3037	অনির্বাণ
+T176	Noun 3219 3227	অনির্বাণ
+T177	Noun 4498 4506	অনির্বাণ
+T178	Noun 4859 4867	অনির্বাণ
+T179	Noun 5377 5385	অনির্বাণ
+T180	Noun 5387 5395	অনির্বাণ
+T181	Noun 5674 5682	অনির্বাণ
+T182	Noun 6686 6694	অনির্বাণ
+T183	Noun 6782 6790	অনির্বাণ
+T184	Noun 7313 7321	অনির্বাণ
+T185	Noun 7591 7599	অনির্বাণ
+T186	Noun 7891 7899	অনির্বাণ
+T187	Noun 8397 8405	অনির্বাণ
+T188	Noun 8810 8818	অনির্বাণ
+T189	Noun 9428 9436	অনির্বাণ
+T190	Noun 9850 9858	অনির্বাণ
+T191	Noun 11027 11035	অনির্বাণ
+T192	Noun 2841 2850	টোবি দত্ত
+T193	Noun 2940 2949	টোবি দত্ত
+T194	Noun 3403 3412	টোবি দত্ত
+T195	Noun 3498 3507	টোবি দত্ত
+T196	Noun 4558 4567	টোবি দত্ত
+T197	Noun 4881 4890	টোবি দত্ত
+T198	Noun 5703 5712	টোবি দত্ত
+T199	Noun 6053 6062	টোবি দত্ত
+T200	Noun 6256 6265	টোবি দত্ত
+T201	Noun 6745 6754	টোবি দত্ত
+T202	Noun 7130 7139	টোবি দত্ত
+T203	Noun 7225 7234	টোবি দত্ত
+T204	Noun 7801 7810	টোবি দত্ত
+T205	Noun 8212 8221	টোবি দত্ত
+T206	Noun 8895 8904	টোবি দত্ত
+T207	Noun 10295 10304	টোবি দত্ত
+T208	Noun 10453 10462	টোবি দত্ত
+T210	Noun 9864 9870	কর্নেল
+T212	Noun 4607 4610	সমর
+T213	Noun 9871 9874	সমর
+T214	Noun 11060 11063	সমর
+T215	Noun 11208 11211	সমর
+T216	Noun 1313 1321	অমিয়ভূষণ
+T217	Noun 1719 1727	অমিয়ভূষণ
+T218	Noun 1848 1856	অমিয়ভূষণ
+T219	Noun 2169 2177	অমিয়ভূষণ
+T220	Noun 2612 2620	অমিয়ভূষণ
+T221	Noun 2892 2900	অমিয়ভূষণ
+T222	Noun 3086 3094	অমিয়ভূষণ
+T223	Noun 3449 3457	অমিয়ভূষণ
+T224	Noun 3837 3845	অমিয়ভূষণ
+T225	Noun 4269 4277	অমিয়ভূষণ
+T226	Noun 4709 4717	অমিয়ভূষণ
+T233	Noun 10653 10660	ডাক্তার
+T236	Noun 9405 9410	শৈবাল
+T237	Noun 9473 9478	শৈবাল
+T238	Noun 9575 9580	শৈবাল
+T239	Noun 10022 10027	শৈবাল
+T240	Noun 11345 11350	শৈবাল
+T241	Noun 3989 3994	মণিকা
+T242	Noun 9599 9606	মালবিকা
+T243	Noun 9943 9950	মালবিকা
+T244	Noun 10845 10852	মালবিকা
+T90	Noun 377 383	মহারাজ
+R1	PronounToNoun Arg1:T71 Arg2:T90	
+R2	PronounToNoun Arg1:T92 Arg2:T171	
+R3	PronounToNoun Arg1:T28 Arg2:T171	
+R4	PronounToNoun Arg1:T93 Arg2:T171	
+R5	PronounToNoun Arg1:T14 Arg2:T172	
+T48	Noun 1167 1188	ইস্কুলের হেডমাস্টারের
+R6	PronounToNoun Arg1:T72 Arg2:T48	
+R7	PronounToNoun Arg1:T73 Arg2:T216	
+R8	PronounToNoun Arg1:T78 Arg2:T216	
+R9	PronounToNoun Arg1:T87 Arg2:T216	
+R10	PronounToNoun Arg1:T79 Arg2:T216	
+R11	PronounToNoun Arg1:T15 Arg2:T217	
+T46	Noun 1740 1746	ছোটভাই
+R12	PronounToNoun Arg1:T94 Arg2:T46	
+R13	PronounToNoun Arg1:T37 Arg2:T218	
+R14	PronounToNoun Arg1:T16 Arg2:T219	
+R15	PronounToNoun Arg1:T1 Arg2:T219	
+R16	PronounToNoun Arg1:T2 Arg2:T219	
+T49	Noun 2477 2485	অনিবার্ণ
+R17	PronounToNoun Arg1:T3 Arg2:T49	
+R18	PronounToNoun Arg1:T17 Arg2:T221	
+R19	PronounToNoun Arg1:T4 Arg2:T176	
+T50	Noun 3799 3807	অমিয়বাবু
+R20	PronounToNoun Arg1:T38 Arg2:T50	
+R21	PronounToNoun Arg1:T18 Arg2:T224	
+R22	PronounToNoun Arg1:T19 Arg2:T224	
+R23	PronounToNoun Arg1:T20 Arg2:T224	
+R24	PronounToNoun Arg1:T21 Arg2:T224	
+R25	PronounToNoun Arg1:T39 Arg2:T224	
+R26	PronounToNoun Arg1:T22 Arg2:T121	
+R27	PronounToNoun Arg1:T40 Arg2:T224	
+R28	PronounToNoun Arg1:T5 Arg2:T177	
+R29	PronounToNoun Arg1:T42 Arg2:T122	
+R30	PronounToNoun Arg1:T6 Arg2:T180	
+R31	PronounToNoun Arg1:T23 Arg2:T180	
+R32	PronounToNoun Arg1:T32 Arg2:T180	
+R33	PronounToNoun Arg1:T77 Arg2:T149	
+R34	PronounToNoun Arg1:T56 Arg2:T199	
+R35	PronounToNoun Arg1:T47 Arg2:T153	
+R36	PronounToNoun Arg1:T43 Arg2:T201	
+R37	PronounToNoun Arg1:T74 Arg2:T130	
+R38	PronounToNoun Arg1:T104 Arg2:T41	
+T41	Noun 7610 7614	টোবি
+R39	PronounToNoun Arg1:T75 Arg2:T131	
+R40	PronounToNoun Arg1:T24 Arg2:T132	
+R41	PronounToNoun Arg1:T106 Arg2:T204	
+R42	PronounToNoun Arg1:T34 Arg2:T134	
+R43	PronounToNoun Arg1:T25 Arg2:T204	
+R44	PronounToNoun Arg1:T26 Arg2:T204	
+R45	PronounToNoun Arg1:T7 Arg2:T135	
+R46	PronounToNoun Arg1:T33 Arg2:T162	
+R47	PronounToNoun Arg1:T109 Arg2:T163	
+R48	PronounToNoun Arg1:T8 Arg2:T188	
+R49	PronounToNoun Arg1:T9 Arg2:T138	
+T51	Pronoun 8978 8979	ও
+R50	PronounToNoun Arg1:T51 Arg2:T206	
+R51	PronounToNoun Arg1:T10 Arg2:T139	
+T52	Pronoun 9132 9133	ও
+R52	PronounToNoun Arg1:T52 Arg2:T206	
+R53	PronounToNoun Arg1:T80 Arg2:T237	
+R54	PronounToNoun Arg1:T81 Arg2:T242	
+R55	PronounToNoun Arg1:T82 Arg2:T242	
+R56	PronounToNoun Arg1:T11 Arg2:T242	
+R57	PronounToNoun Arg1:T89 Arg2:T238	
+R58	PronounToNoun Arg1:T45 Arg2:T242	
+R59	PronounToNoun Arg1:T35 Arg2:T190	
+R60	PronounToNoun Arg1:T83 Arg2:T239	
+R61	PronounToNoun Arg1:T12 Arg2:T239	
+R62	PronounToNoun Arg1:T84 Arg2:T239	
+R63	PronounToNoun Arg1:T85 Arg2:T239	
+R64	PronounToNoun Arg1:T27 Arg2:T239	
+T29	Noun 10552 10575	কাউকে আদর করে চেটে দিলে
+R65	PronounToNoun Arg1:T67 Arg2:T29	
+R66	PronounToNoun Arg1:T36 Arg2:T239	
+R67	PronounToNoun Arg1:T13 Arg2:T233	
+R68	PronounToNoun Arg1:T30 Arg2:T244	
+R69	PronounToNoun Arg1:T86 Arg2:T214	
+R70	PronounToNoun Arg1:T76 Arg2:T214	
+T31	Pronoun 6804 6805	ও
+R71	PronounToNoun Arg1:T31 Arg2:T201	
+T44	Pronoun 9034 9035	ও
+R72	PronounToNoun Arg1:T44 Arg2:T206	

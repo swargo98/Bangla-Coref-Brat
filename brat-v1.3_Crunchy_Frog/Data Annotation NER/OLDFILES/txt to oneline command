@@ -1,0 +1,11 @@
+cat myfile.txt | tr -d '\n' > oneline.txt
+
+for i in {1..9..1}
+  do 
+     cat chapter_0${i}.txt | tr -d '\n' > chapter_0${i}_oneline.txt
+ done
+
+tr '\n' ' ' < input_filename
+
+cat chapter_0101.txt | tr '\n' 'n' > oneline.txt
+cat oneline.txt | tr 'n' '\n' > multiline.txt
