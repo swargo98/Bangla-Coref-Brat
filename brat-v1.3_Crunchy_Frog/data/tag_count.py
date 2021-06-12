@@ -1,5 +1,5 @@
 import os
-bookname = "Chapter3"
+bookname = "ArjunBeriyeElo"
 filename = "tag_count"
 fw = open(filename,"w")
 fw.write("chapter" + "\t" + "PRON_PER" + "\t" + "PROP_PER" + "\t" + "NOM_PER" + "\t" + "relational token\n")
